@@ -3,6 +3,7 @@
 
 int main(int argc, char* argv[])
 {
+	printtf("Test Test Test");
 	/* 
 		 ((      /|_/|
   		  \\.._.'  , ,\  gimme food hoomannn....
